@@ -51,7 +51,7 @@ There are two straightforward ways to provide the corporate cash ranking: number
 
 ####Organization
 
-The menu & “show all” page will rank the races in the following order: 
+The menu & “show all” page will rank the races in the following order, along the right rail: 
 
 ```
 All Offices
@@ -77,6 +77,14 @@ But we could throw them in at the bottom.
 ```
 
 It will default to the current year, but will allow selection of all prior years for which data are available. Ian’s design seems to work well to this end, though we really only need two drop-down selectors. 
+
+Once any race is selected, a Summary view will show the few most important data points we determine, such as number of local contributors, % from idivduals vs corporate donors, total money raised in the cycle. (Though we do not want to sort by the cash horse race, as we do not consider this the most important factor.)
+
+Tab for Grasroots Support and Corporate Influence along the top can display more data points for each of those topic areas when seleceted. For example: 
+- Grasroots - number of individual donors, percent of contributions from individual donors, size of average donation, location of donors, etc.
+- Corporate - number of corporate donors, percent of contributions from corporate donors, size of average corporate donation, total cash rasied from corporate contirubtors, etc. 
+Each page can use graphs as beneficial. 
+
 
 ###Goal 2: Automation
 The next step will not provide more analyses, but rather will increase the automation of data analysis and distribution.  
